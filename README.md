@@ -1,7 +1,7 @@
 # Decription
 This Simulator presents the behavior of the double pendulum by drawing a chaotic trajectory of its movement.
 
-![Simulation gif](https://media.giphy.com/media/15XfP7mGho1YE9NsC3/giphy.gif)
+![Simulation gif](https://github.com/Artniewski/double-pendulum/blob/654e717fd7435ac703ebdcb985e8a34beae60d5f/doublePendulum.gif)
 ## UI functionalites
 -allowing to start/stop the simulation, 
 
